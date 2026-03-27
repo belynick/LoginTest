@@ -11,7 +11,6 @@
 !apt-get update
 !apt-get install -y google-chrome-stable
 
-# Встановлюємо Python-бібліотеки
 !pip install selenium webdriver-manager
 
 from selenium import webdriver
